@@ -1,0 +1,4 @@
+#Tue Apr 21 09:41:13 ICT 2020
+base.0=E\:\\THUCHANH\\KhoaPham\\Redux\\DemoRedux2\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
